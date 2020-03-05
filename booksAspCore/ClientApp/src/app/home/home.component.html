@@ -1,0 +1,25 @@
+<div class="" id="render_body">
+
+
+    <div *ngIf="books" class="col-sm-12">
+        <div *ngFor="let book of books" style="float: left;" class="col-md-2 col-sm-3 col-xs-5">
+
+            <div class="product-image-wrapper">
+                <div class="single-products">
+                    <div class="productinfo text-center">
+                        <a class="thumbnail" href="/product/detail-product/258479">
+                            <img [src]="book.urlPic" [alt]="book.name" [title]="book.name">
+                        </a>
+                        <p class="titlebook"><a href="/product/detail-product/258479">{{book.name}}</a></p>
+                        <p class="author">{{book.author}}</p>
+                        <p class="price">{{book.price}} {{book.currency}}.</p>
+                        <input class="btn btn-default add-to-cart" type="submit" value="To Basket">
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>

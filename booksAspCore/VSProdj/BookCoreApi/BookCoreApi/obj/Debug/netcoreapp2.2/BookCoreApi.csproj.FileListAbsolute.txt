@@ -1,0 +1,16 @@
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\bin\Debug\netcoreapp2.2\BookCoreApi.deps.json
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\bin\Debug\netcoreapp2.2\BookCoreApi.runtimeconfig.json
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\bin\Debug\netcoreapp2.2\BookCoreApi.runtimeconfig.dev.json
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\bin\Debug\netcoreapp2.2\BookCoreApi.dll
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\bin\Debug\netcoreapp2.2\BookCoreApi.pdb
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\bin\Debug\netcoreapp2.2\DAL.dll
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\bin\Debug\netcoreapp2.2\DAL.pdb
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\obj\Debug\netcoreapp2.2\BookCoreApi.csprojResolveAssemblyReference.cache
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\obj\Debug\netcoreapp2.2\BookCoreApi.csproj.CoreCompileInputs.cache
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\obj\Debug\netcoreapp2.2\BookCoreApi.RazorAssemblyInfo.cache
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\obj\Debug\netcoreapp2.2\BookCoreApi.RazorAssemblyInfo.cs
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\obj\Debug\netcoreapp2.2\BookCoreApi.AssemblyInfoInputs.cache
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\obj\Debug\netcoreapp2.2\BookCoreApi.AssemblyInfo.cs
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\obj\Debug\netcoreapp2.2\BookCoreApi.RazorTargetAssemblyInfo.cache
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\obj\Debug\netcoreapp2.2\BookCoreApi.dll
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\obj\Debug\netcoreapp2.2\BookCoreApi.pdb

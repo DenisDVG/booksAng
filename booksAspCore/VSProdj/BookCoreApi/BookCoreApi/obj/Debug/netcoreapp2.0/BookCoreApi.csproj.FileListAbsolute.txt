@@ -1,0 +1,13 @@
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\bin\Debug\netcoreapp2.0\BookCoreApi.deps.json
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\bin\Debug\netcoreapp2.0\BookCoreApi.runtimeconfig.json
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\bin\Debug\netcoreapp2.0\BookCoreApi.runtimeconfig.dev.json
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\bin\Debug\netcoreapp2.0\BookCoreApi.dll
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\bin\Debug\netcoreapp2.0\BookCoreApi.pdb
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\bin\Debug\netcoreapp2.0\DAL.dll
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\bin\Debug\netcoreapp2.0\DAL.pdb
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\obj\Debug\netcoreapp2.0\BookCoreApi.csprojResolveAssemblyReference.cache
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\obj\Debug\netcoreapp2.0\BookCoreApi.csproj.CoreCompileInputs.cache
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\obj\Debug\netcoreapp2.0\BookCoreApi.AssemblyInfoInputs.cache
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\obj\Debug\netcoreapp2.0\BookCoreApi.AssemblyInfo.cs
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\obj\Debug\netcoreapp2.0\BookCoreApi.dll
+C:\Users\denisg\source\repos\booksAng2\booksAspCore\VSProdj\BookCoreApi\BookCoreApi\obj\Debug\netcoreapp2.0\BookCoreApi.pdb

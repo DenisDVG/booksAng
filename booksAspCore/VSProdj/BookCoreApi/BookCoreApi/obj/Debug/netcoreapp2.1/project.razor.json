@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\denisg\\source\\repos\\booksAng2\\booksAspCore\\VSProdj\\BookCoreApi\\BookCoreApi\\BookCoreApi.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.0",
+    "LanguageVersion": "2.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.0"
+      }
+    ]
+  }
+}
